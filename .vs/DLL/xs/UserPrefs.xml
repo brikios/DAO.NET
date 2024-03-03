@@ -1,23 +1,24 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DLL/DAOImp/DAOImpUser.cs">
     <Files>
       <File FileName="DLL/IDAO/IUser.cs" />
       <File FileName="DLL/DBconnection/ConnectionDB.cs" />
-      <File FileName="DLL/DAOImp/DAOImpUser.cs" Line="13" Column="20" />
+      <File FileName="DLL/DAOImp/DAOImpUser.cs" Line="49" Column="18" />
       <File FileName="DLL/Entities/User.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DLL" expanded="True">
-            <Node name="DLL">
+          <Node name="DLL">
+            <Node name="DLL" expanded="True">
               <Node name="DAOImp" expanded="True" />
+              <Node name="IDAO" expanded="True" />
             </Node>
           </Node>
         </State>
