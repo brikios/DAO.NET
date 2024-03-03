@@ -1,33 +1,27 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DLL/DBconnection/ConnectionDB.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DLL/DAOImp/DAOImpUser.cs">
     <Files>
       <File FileName="DLL/IDAO/IUser.cs" />
-      <File FileName="DLL/DBconnection/ConnectionDB.cs" Line="26" Column="2" />
-      <File FileName="DLL/DAOImp/DAOImpUser.cs" />
+      <File FileName="DLL/DBconnection/ConnectionDB.cs" />
+      <File FileName="DLL/DAOImp/DAOImpUser.cs" Line="13" Column="20" />
       <File FileName="DLL/Entities/User.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DLL" expanded="True">
-            <Node name="DLL" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="DLL">
               <Node name="DAOImp" expanded="True" />
-              <Node name="DBconnection" expanded="True">
-                <Node name="ConnectionDB.cs" selected="True" />
-              </Node>
-              <Node name="Entities" expanded="True" />
-              <Node name="IDAO" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
