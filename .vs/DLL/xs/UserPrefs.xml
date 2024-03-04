@@ -1,10 +1,5 @@
 ﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DLL/DAOImp/DAOImpUser.cs">
     <Files>
       <File FileName="DLL/IDAO/IUser.cs" />
@@ -15,9 +10,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DLL">
+          <Node name="DLL" expanded="True">
             <Node name="DLL" expanded="True">
-              <Node name="DAOImp" expanded="True" />
+              <Node name="DAOImp" expanded="True">
+                <Node name="DAOImpUser.cs" selected="True" />
+              </Node>
               <Node name="IDAO" expanded="True" />
             </Node>
           </Node>
@@ -25,4 +22,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
 </Properties>
